@@ -1,0 +1,5 @@
+﻿country,dominant_age_segment,preferred_style,acidity_preference,alcohol_preference,price_sensitivity,innovation_openness,market_saturation,avg_price,import_dependency,tax_level
+USA,Millennials & GenX,Fruity & structured,Medium-Low,Medium-High,Medium,High,High,14,High,Medium
+Germany,40+,Dry & acidic,High,Low-Medium,High,Low,High,6,High,Medium
+United Kingdom,30-50,Balanced & dry,Medium,Medium,Medium,Medium-High,High,9,Very High,High
+Brazil,25-40,Fruity & smooth,Low,Medium,High,Medium,Medium,7,Medium,Very High
