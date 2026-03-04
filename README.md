@@ -25,3 +25,13 @@ Mercado Internacional.csv
 - Excel / CSV
 - Data visualization
 - Market analysis
+## Autor
+
+Joana Barbosa  
+Projeto de análise de mercado desenvolvido no contexto de estudo de oportunidades internacionais para o setor do vinho.
+
+## Próximos passos
+
+- criação de dashboard de visualização
+- análise comparativa entre mercados
+- identificação de mercados prioritários para exportação
